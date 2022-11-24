@@ -1,0 +1,25 @@
+.projectsPage{
+  padding: 10px;
+  background-color: #333333;
+  min-height: 80vh;
+  .searchAndAddProject{
+    display: flex;
+    justify-content: center;
+    input{
+      background: #262626;
+      border: 1px solid #0D0D0D;
+      border-radius: 8px;
+      color: #fff;
+      padding: 20px 20vw 20px 5px;
+    }
+    button{
+      margin-left: 10px;
+      padding: 10px;
+      background-color: #1595e3;
+      border: none;
+      font-size: 18px;
+      border-radius: 8px;
+      color: #fff;
+    }
+  }
+}
