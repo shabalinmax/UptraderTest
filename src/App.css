@@ -24,4 +24,20 @@ header a {
   color: white;
 }
 
+.defaultInput {
+  background: #262626;
+  border: 1px solid #0D0D0D;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 18px;
+  padding: 20px 20vw 20px 5px;
+}
+
+.defaultBtn {
+  border-radius: 10px;
+  background-color: #1595e3;
+  border: none;
+  color: white;
+}
+
 /*# sourceMappingURL=App.css.map */
